@@ -9,6 +9,8 @@ First, start up and log into your virtual machine. If you forgot how to do so, t
 
 Next, **Clone** this repository to your virtual machine. This will create a copy of the files for you to work with. Enter the command `git clone repository_link` to do this. Get the link by clicking the "clone or download" button on the top-right of this page.
 
+Go ahead and cd into the new directory that git has made for you. Use `ls` to find the name of the new directory and type the command `cd directory_name` to go to it.
+
 For this lab, you will use a command-line text editor called **nano** to write code (if you are familiar with these, other options like vim and emacs are also acceptable) Try opening the c file you just downloaded.
 
 ```nano intro.c```
